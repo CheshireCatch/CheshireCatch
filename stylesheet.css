@@ -20,6 +20,15 @@ body {
 }
 
 li {
+  list-style-type: none;
   left: 50%
   display: inline-block;
+}
+
+a:link{
+  color:#999999;
+}
+
+a:visited{
+  color:#999999;
 }
