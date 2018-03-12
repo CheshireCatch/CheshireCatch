@@ -20,5 +20,6 @@ body {
 }
 
 li {
+  left: 50%
   display: inline-block;
 }
