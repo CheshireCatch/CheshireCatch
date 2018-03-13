@@ -2,10 +2,6 @@
       .mobile-only { display: none; }
 }
 
-.center {
-  text-align: center;
-}
-
 .courier {
   font-family: 'Inconsolata', Courier New, Courier, monospace;
 }
@@ -30,10 +26,6 @@
 
 .flavor {
   white-space: nowrap;
-}
-
-.mobile-only {
-
 }
 
 body {
