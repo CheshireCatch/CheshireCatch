@@ -23,6 +23,7 @@
 }
 
 body {
+  display: inline-block;
   background-color: #801200;
   color: #ffffff;
 }
@@ -30,7 +31,6 @@ body {
 li {
   list-style-type: none;
   left: 50%
-  display: inline-block;
 }
 
 a:link{
