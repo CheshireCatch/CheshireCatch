@@ -7,6 +7,7 @@
 }
 
 .name {
+  display: inline-block;
   font-size: 30px;
   font-style: normal;
   font-variant: normal;
@@ -23,14 +24,12 @@
 }
 
 body {
-  display: inline-block;
   background-color: #801200;
   color: #ffffff;
 }
 
 li {
   list-style-type: none;
-  left: 50%
 }
 
 a:link{
