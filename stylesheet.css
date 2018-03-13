@@ -7,6 +7,7 @@
 }
 
 .name {
+  white-space: nowrap;
   display: inline-block;
   font-size: 30px;
   font-style: normal;
